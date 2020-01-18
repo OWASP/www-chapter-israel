@@ -9,7 +9,7 @@ region: Europe
 
 
 ---
-[center](image:Owasp_Israel_logo.png ) __NOTOC__
+[center](image:assets/images/Owasp_Israel_logo.png ) __NOTOC__
 
 # Welcome
 
