@@ -8,7 +8,7 @@ region: Europe
 
 ---
 
-[center](image:assets/images/Owasp_Israel_logo.png ) __NOTOC__
+![logo](/assets/images/Owasp_Israel_logo.png "Owasp Israel")
 
 ## Welcome to the Israel chapter homepage
 we aim to organize the next activities 
