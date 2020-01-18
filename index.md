@@ -4,10 +4,7 @@ layout: col-sidebar
 title: OWASP Israel
 tags: APPSEC-IL, meetup, Hebrew-Translations
 level: 0
-
 region: Europe
-
-auto-migrated: 1
 
 ---
 
