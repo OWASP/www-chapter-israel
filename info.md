@@ -4,3 +4,4 @@
 * [Twitter](https://twitter.com/OWASP_IL) account.
 * [Sponsorship opportunities](https://www.owasp.org/index.php/Local_Chapter_Supporter), including \#AppSecIL conference sponsorship.
 * [Ongoing Meetings and socialization on Meetup](http://www.meetup.com/OWASP-Israel/).
+If you have anything else on your mind, please speak up\! Contact [Ori Troyna](mailto:ori.troyna@owasp.org) with any ideas you have.

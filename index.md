@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Israel
-tags: APPSECIL, meetup, Hebrew-Translations
+tags: APPSEC-IL, meetup, Hebrew-Translations
 level: 0
 
 region: Europe
@@ -10,6 +10,8 @@ region: Europe
 auto-migrated: 1
 
 ---
+
+[center](image:assets/images/Owasp_Israel_logo.png ) __NOTOC__
 
 ## Welcome to the Israel chapter homepage
 we aim to organize the next activities 
