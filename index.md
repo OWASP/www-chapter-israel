@@ -11,22 +11,22 @@ region: Europe
 <!--![logo](/assets/images/Owasp_Israel_logo.png "Owasp Israel")-->
 
 ## Welcome to the Israel chapter
-We aim to organize the next activities 
+<!--We aim to organize the next activities 
   - An annual conference, usually in September or October.
   - Periodic meetings and workshops. If you would like to host a meeting or speak in
     one contact [Ori Troyna](mailto:Ori.Troyna@owasp.org) or [Shira Shamban](mailto:shira.shamban@owasp.org).
   - Translation of OWASP resources to Hebrew.
   - Spreading the Word - Reaching out for more people, especially
-    outside of the AppSec community.
+    outside of the AppSec community.-->
 
 ## Local News
 
-* **OWASP Meetup January 2020 [Docker Image Security Meetup on Jan 21st](https://www.meetup.com/OWASP-Israel/events/267512448/)**
+<!--* **OWASP Meetup January 2020 [Docker Image Security Meetup on Jan 21st](https://www.meetup.com/OWASP-Israel/events/267512448/)**
 * Everyone is welcome to join us at our chapter meetings.
-* The annual AppSecIL is coming - Sep / Oct 2020
+* The annual AppSecIL is coming - Sep / Oct 2020-->
 
 ## Hebrew Translations
-
+<!--
 * The OWASP Top 10, 2013 version was translated to Hebrew\!
 is now [available for download](https://www.owasp.org/index.php/OWASP_Top10_Hebrew).
 * The [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/File:OWASP_Risk_Rating_Methodology-Hebrew.pdf)<!--, part of the [OWASP Testing Project](OWASP_Testing_Project ),--> has been translated to Hebrew, and is available for download in [PDF format](https://www.owasp.org/images/6/61/OWASP_Risk_Rating_Methodology-Hebrew.pdf). Much thanks to Tal Argoni from TriadSec.
