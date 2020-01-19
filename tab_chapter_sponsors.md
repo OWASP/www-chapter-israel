@@ -2,7 +2,7 @@
 title: Chapter Sponsors
 layout:  null
 tab: true
-order: 1
+order: 3
 tags: Chapter-Sponsors
 ---
 

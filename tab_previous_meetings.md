@@ -2,12 +2,12 @@
 title: Previous Meetings
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: Previous-Meetings
 ---
 
 ## Previous Meetings
-<!--
+
 <table>
 <thead>
 <tr class="header">
@@ -226,4 +226,4 @@ tags: Previous-Meetings
 </tbody>
 </table>
 
-<headertabs></headertabs>-->
+<headertabs></headertabs>
