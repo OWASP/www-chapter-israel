@@ -7,7 +7,7 @@ tags: Chapter-Sponsors
 ---
 
 ## Chapter Sponsors
-
+<!--
 The OWASP Israel chapter's yearly activity is being supported by the
 generous sponsorship of the following companies:
 
@@ -16,3 +16,4 @@ generous sponsorship of the following companies:
 [Category:OWASP_Chapter](Category:OWASP_Chapter )
 [Category:Middle East](Category:Middle_East )
 [Category:Europe](Category:Europe )
+-->

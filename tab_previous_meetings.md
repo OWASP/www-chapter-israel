@@ -7,7 +7,7 @@ tags: Previous-Meetings
 ---
 
 ## Previous Meetings
-
+<!--
 <table>
 <thead>
 <tr class="header">
@@ -54,17 +54,6 @@ tags: Previous-Meetings
 <td><p>SafeBreach in Tel Aviv</p></td>
 <td><p>69 participants</p></td>
 </tr>
-
-
-
-
-
-
-
-
-
-
-
 <tr class="odd">
 <td><p><a href="OWASP_Israel_June_2017" title=>OWASP Israel June 2017</a></p></td>
 <td><p>June 20th, 2017</p></td>
@@ -237,4 +226,4 @@ tags: Previous-Meetings
 </tbody>
 </table>
 
-<headertabs></headertabs>
+<headertabs></headertabs>-->
