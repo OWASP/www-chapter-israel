@@ -29,7 +29,9 @@ region: Europe
 <!--
 * The OWASP Top 10, 2013 version was translated to Hebrew\!
 is now [available for download](https://www.owasp.org/index.php/OWASP_Top10_Hebrew).
-* The [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/File:OWASP_Risk_Rating_Methodology-Hebrew.pdf)<!--, part of the [OWASP Testing Project](OWASP_Testing_Project ),--> has been translated to Hebrew, and is available for download in [PDF format](https://www.owasp.org/images/6/61/OWASP_Risk_Rating_Methodology-Hebrew.pdf). Much thanks to Tal Argoni from TriadSec.
+* The [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/File:OWASP_Risk_Rating_Methodology-Hebrew.pdf)-->
+<!--, part of the [OWASP Testing Project](OWASP_Testing_Project ),--> 
+<!--has been translated to Hebrew, and is available for download in [PDF format](https://www.owasp.org/images/6/61/OWASP_Risk_Rating_Methodology-Hebrew.pdf). Much thanks to Tal Argoni from TriadSec.-->
 
 
 ## Participation
