@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 ### Information
 * Security discussion forum in Hebrew - on [Facebook](https://www.facebook.com/groups/owasp.il/).
-=======
-<!--* Security discussion forum in Hebrew - on [Facebook](https://www.facebook.com/groups/owasp.il/).
->>>>>>> 879c44900ec8cc191cc77aa15a28da38cf6e5e5f
 * [LinkedIn Group](https://www.linkedin.com/groups/39702) for networking and announcements.
 * [Chat room](https://owasp.slack.com/messages/chapter-israel/) for security in Hebrew.
 * [Twitter](https://twitter.com/OWASP_IL) account.
