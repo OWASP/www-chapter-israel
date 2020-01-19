@@ -3,7 +3,7 @@ title: Sponsors
 displaytext: Chapter Sponsors
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: Chapter-Sponsors
 ---
 
