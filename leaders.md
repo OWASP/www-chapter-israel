@@ -4,7 +4,7 @@
 * [Ori Troyna](mailto:ori.troyna@owasp.org)
 * [Shira Shamban](mailto:shira.shamban@owasp.org)
 
-### Board members
+<!--### Board members
 
 * [Or Katz](mailto:or.katz@owasp.org)
 * [Dr. Yossi Oren](User:YossiOren )
@@ -13,4 +13,4 @@
 
 #### Chapter Founder
 
-* [Ofer Shezaf](mailto:ofer@shezaf.com)
+* [Ofer Shezaf](mailto:ofer@shezaf.com)-->
