@@ -10,7 +10,8 @@ region: Europe
 
 ![logo](/assets/images/Owasp_Israel_logo.png "Owasp Israel")
 
-## Welcome to the Israel chapter
+## Welcome
+
 We aim to organize the next activities 
   - An annual conference, usually in September or October.
   - Periodic meetings and workshops. If you would like to host a meeting or speak in
