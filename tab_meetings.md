@@ -9,7 +9,7 @@ tags: Previous-Meetings
 
 ## Previous Meetings
 
-<table>
+<!--<table>
 <thead>
 <tr class="header">
 <th><p>Name</p></th>
@@ -233,4 +233,4 @@ tags: Previous-Meetings
 </tbody>
 </table>
 
-<headertabs></headertabs>
+<headertabs></headertabs>-->

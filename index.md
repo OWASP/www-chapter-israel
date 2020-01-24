@@ -20,7 +20,7 @@ region: Europe
 
 ## Local News
 
-* *** Looking for location for the next Meetup in Feb 22nd ***
+* **Looking for location for the next Meetup in Feb 22nd**
 * Everyone is welcome to join us at our chapter meetings.
 * The annual AppSecIL is coming - Sep / Oct 2020
 
