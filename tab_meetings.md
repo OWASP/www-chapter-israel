@@ -3,7 +3,7 @@ title: Meetings
 displaytext: Previous Meetings
 layout:  null
 tab: true
-order: 2
+order: 1
 tags: Previous-Meetings
 ---
 
@@ -19,6 +19,12 @@ tags: Previous-Meetings
 </tr>
 </thead>
 <tbody>
+<tr class="even">
+<td><p><a href="OWASP_Israel_Jan_2020" title=>OWASP Israel January 2020 - Workshop</a></p></td>
+<td><p>January 21, 2020</p></td>
+<td><p>ZOOZ office in Tel Aviv-Yafo</p></td>
+<td><p>20 participants</p></td>
+</tr>
 <tr class="odd">
 <td><p><a href="OWASP_Israel_November_2019" title=>OWASP Israel November 2019</a></p></td>
 <td><p>November 6, 2019</p></td>

@@ -20,7 +20,7 @@ region: Europe
 
 ## Local News
 
-* **OWASP Meetup January 2020 [Docker Image Security Meetup on Jan 21st](https://www.meetup.com/OWASP-Israel/events/267512448/)**
+* *** Looking for location for the next Meetup in Feb 22nd ***
 * Everyone is welcome to join us at our chapter meetings.
 * The annual AppSecIL is coming - Sep / Oct 2020
 
