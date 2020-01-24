@@ -8,6 +8,5 @@ tags: israel
 ---
 
 ## Local sponsors
-{% include sponsors.md %}
 
 If you want to support our chapter, please contact [Ori Troyna](mailto:ori.troyna@owasp.org).
