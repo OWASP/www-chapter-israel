@@ -10,6 +10,9 @@ tags: Israel
 ---
 
 ## Previous Meetings
+
+Past events, starting from 2016 can be found in <a href="https://www.meetup.com/OWASP-Israel/events/past/">OWASP-Israel</a> meetup group
+
 <table>
   <col width="300">
   <col width="150">
