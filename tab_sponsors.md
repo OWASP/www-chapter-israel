@@ -5,7 +5,7 @@ displaytext: Chapter sponsors
 layout: null
 tab: true
 order: 2
-tags: israel
+tags: Israel
 
 ---
 
