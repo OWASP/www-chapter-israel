@@ -142,6 +142,7 @@ tags: Israel
 <td><p>OWASP Israel February 2013</p></td>
 <td><p>February 12th, 2013</p></td>
 <td><p>E&amp;Y</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>OWASP Israel Jun-2010</p></td>
