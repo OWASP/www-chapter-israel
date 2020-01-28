@@ -34,7 +34,7 @@ tags: Israel
 <td><p>OWASP Israel November 2019</p></td>
 <td><p>November 6, 2019</p></td>
 <td><p>Akamai Israel Ltd. in Tel Aviv-Yafo</p></td>
-<td><p>175 people</p></td>
+<td><p>175 participants</p></td>
 </tr>
 <tr class="even">
 <td><p>OWASP Israel June 2019</p></td>
@@ -76,13 +76,13 @@ tags: Israel
 <td><p>OWASP Israel April 2017</p></td>
 <td><p>April 3rd, 2017</p></td>
 <td><p>Checkmarx's offices, in the Amot Atrium Tower, 2 Jabotinsky St., Ramat Gan</p></td>
-<td><p>75 people</p></td>
+<td><p>75 participants</p></td>
 </tr>
 <tr class="odd">
 <td><p>OWASP Israel January 2017</p></td>
 <td><p>January 18th, 2017</p></td>
 <td><p>Radware’s Tel Aviv offices, at Raul Wallenberg 22, Ramat HaChayal</p></td>
-<td><p>120 people</p></td>
+<td><p>120 participants</p></td>
 </tr>
 <tr class="even">
 <td><p>OWASP Israel June 2016</p></td>
@@ -184,7 +184,7 @@ tags: Israel
 <td><p>OWASP Israel January 2009 meeting</p></td>
 <td><p>January 28th, 2009</p></td>
 <td><p>Checkpoint</p></td>
-<td><p>100 people</p></td>
+<td><p>100 participants</p></td>
 </tr>
 </tbody>
 </table>
