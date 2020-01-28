@@ -11,6 +11,10 @@ tags: Israel
 
 ## Previous Meetings
 <table>
+  <col width="300">
+  <col width="150">
+  <col width="250">
+  <col width="150">
 <thead>
 <tr class="header">
 <th><p>Name</p></th>
