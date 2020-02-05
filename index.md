@@ -20,7 +20,7 @@ region: Europe
 
 ## Local News
 
-* **Looking for location for the next Meetup in Feb 22nd**
+* **Workshop for members on [Docker Image security](https://www.meetup.com/OWASP-Israel/events/268461033/)**
 * Everyone is welcome to join us at our chapter meetings.
 * The annual AppSecIL is coming - Sep / Oct 2020
 
