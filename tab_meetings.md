@@ -13,6 +13,9 @@ tags: Israel
 
 Past events, starting from 2016 can be found in <a href="https://www.meetup.com/OWASP-Israel/events/past/">OWASP-Israel</a> meetup group
 
+
+* Workshop for members on [Docker Image security](https://www.meetup.com/OWASP-Israel/events/268461033/), February 18, 2020, Bridgecrew office
+
 <table>
   <col width="300">
   <col width="150">

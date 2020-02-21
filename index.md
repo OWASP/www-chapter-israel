@@ -19,8 +19,7 @@ region: Europe
 * Spreading the Word - Reaching out for more people, especially outside of the AppSec community.
 
 ## Local News
-
-* **Workshop for members on [Docker Image security](https://www.meetup.com/OWASP-Israel/events/268461033/)**
+ 
 * Everyone is welcome to join us at our chapter meetings.
 * The annual AppSecIL is coming - Sep / Oct 2020
 
