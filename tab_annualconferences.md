@@ -1,6 +1,6 @@
 ---
 
-title: annualconferences
+title: Conferences
 displaytext: Previous Annual Conferences
 layout: null
 tab: true
