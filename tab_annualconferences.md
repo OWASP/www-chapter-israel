@@ -6,9 +6,6 @@ layout: null
 tab: true
 order: 3
 tags: Israel
-output:
-  html_document:
-    css: /assets/style.css
 
 ---
 
