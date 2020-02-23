@@ -8,7 +8,7 @@ order: 3
 tags: Israel
 output:
   html_document:
-    css: style.css
+    css: /assets/style.css
 
 ---
 
