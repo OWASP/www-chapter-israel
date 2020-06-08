@@ -13,6 +13,7 @@ tags: Israel
 
 Past events, starting from 2016 can be found in <a href="https://www.meetup.com/OWASP-Israel/events/past/">OWASP-Israel</a> meetup group
 
+* [OWASP Chapters All Day (24hr conference) - hour 21](https://www.youtube.com/watch?v=jZs89NORky4), Jube 6, 2020, OWASP online event
 * [Online OWASP Israel March 2020](https://www.meetup.com/OWASP-Israel/events/269501314/), March 24, 2020, PayU online event
 * Workshop for members on [Docker Image security](https://www.meetup.com/OWASP-Israel/events/268461033/), February 18, 2020, Bridgecrew office
 
