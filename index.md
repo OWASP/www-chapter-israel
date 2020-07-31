@@ -5,6 +5,9 @@ title: OWASP Israel
 tags: Israel
 level: 0
 region: Europe
+meetup-group: OWASP-Israel
+country: Israel
+postal-code: 
 
 ---
 
