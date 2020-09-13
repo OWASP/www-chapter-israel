@@ -16,7 +16,7 @@ postal-code:
 ## Welcome
 
   We aim to organize the next activities 
-* An annual conference (next one going to be virtual), usually in September or October.
+* An annual conference (next one going to be virtual), next one is around the corner, Oct 27-28 2020, [AppSec Israel 2020](https://www.meetup.com/OWASP-Israel/events/273224114/) - start to register.
 * Periodic meetings and workshops. If you would like to host a meeting or speak in one contact [Ori Troyna](mailto:ori.troyna@owasp.org) or [Shira Shamban](mailto:shira.shamban@owasp.org).
 * Translation of OWASP resources to Hebrew.
 * Spreading the Word - Reaching out for more people, especially outside of the AppSec community.
@@ -24,7 +24,7 @@ postal-code:
 ## Local News
  
 * Everyone is welcome to join us at our chapter meetings.
-* The annual AppSecIL is coming - Sep / Oct 2020
+* The annual AppSecIL is scheduled to Oct 27-28 2020, [AppSec Israel 2020](https://www.meetup.com/OWASP-Israel/events/273224114/) - start to register.
 
 ## Hebrew Translations
 
