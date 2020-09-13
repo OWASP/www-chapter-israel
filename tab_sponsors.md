@@ -16,7 +16,7 @@ All sponsors, regardless of sponsorship level receive the following:
 * Access to all the tools, guides, and libraries OWASP makes available for everybody - if you benefit from these, support the organization!
 * In general, if there is something else specific that you may want, and is within the OWASP guidelines, please let us know.
 
-![What You Get for Sponsoring AppSec IL 2020](/assets/images/AppSec_2020_Sponsor.png "Owasp Israel Sponsoring tiers")
+![What You Get for Sponsoring AppSec IL 2020](/www-chapter-israel/assets/images/AppSec_2020_Sponsor.png "Owasp Israel Sponsoring tiers")
 
 **Sponsorship options:**
 
@@ -42,7 +42,7 @@ Price: $1,500 USD
 many of the conference attendees are security professionals, and your potential customers. This is your chance to meet with them, answer questions about your products and give demos. To help you attract more attendees to your digital booth, we will publish it and its link on our website and social media. You will also be able to host a lottery between all the participants who arrived at your booth and send them a prize.
 Price: $1,500 USD
 
-[Download AppSec Israel 2020 detailed sponsorship](/assets/files/Digital_AppSec_Israel_2020_Sponsorships.pdf)
+[Download AppSec Israel 2020 detailed sponsorship](/www-chapter-israel/assets/files/Digital_AppSec_Israel_2020_Sponsorships.pdf)
 
 ## Local sponsors
 
