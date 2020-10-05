@@ -16,7 +16,7 @@ All sponsors, regardless of sponsorship level receive the following:
 * Access to all the tools, guides, and libraries OWASP makes available for everybody - if you benefit from these, support the organization!
 * In general, if there is something else specific that you may want, and is within the OWASP guidelines, please let us know.
 
-**__PREMIUM TIERS__**
+**PREMIUM TIERS**
 
 | Benefit | Silver | Gold | Platinum Limited |
 | ------------------- |:----------------------:|:---------------:|:--------------:|
