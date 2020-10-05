@@ -16,7 +16,19 @@ All sponsors, regardless of sponsorship level receive the following:
 * Access to all the tools, guides, and libraries OWASP makes available for everybody - if you benefit from these, support the organization!
 * In general, if there is something else specific that you may want, and is within the OWASP guidelines, please let us know.
 
-![What You Get for Sponsoring AppSec IL 2020](/www-chapter-israel/assets/images/AppSec_2020_Sponsor.png "Owasp Israel Sponsoring tiers")
+**__PREMIUM TIERS__**
+
+| Benefit | Silver | Gold | Platinum Limited |
+| ------------------- |:----------------------:|:---------------:|:--------------:|
+|Logo on Website|	280x100|	375x150|	500x200|
+|Logo on background| 	No|	Yes|	Large|
+|Logo on Chapter page|	No|	Yes|	Yes|
+|Logo in Website header|	No|	No|	Yes|
+|Vendor blurb on Sponsors page|	No|	50 words|	100 words|
+|Link to sponsor chat|	Yes|	Yes|	Yes|
+|Link to sponsor video/zoom|	No|	Yes|	Yes|
+|Vendor passport raffle|	No|	Yes|	Yes|		
+|Price:|	$2,000| 	$3,000| 	$4,500 |
 
 **Sponsorship options:**
 
