@@ -58,14 +58,19 @@ OWASP’s main goal is to improve security of software, that’s why we hold fre
 Price: $2,000 USD
 
 * 1-hour digital booth for HR and recruiting
-among the conference attendees are professionals, CS/engineering students and young professionals. This is your chance to meet with them, answer questions about your hiring process, talk about open positions and collect CVs. To help you attract more attendees to your digital booth, we will publish it and its link on our website and social media. You will also be able to host a lottery between all the participants who arrived at your booth and send them a prize.
+Among the conference attendees are professionals, CS/engineering students and young professionals. This is your chance to meet with them, answer questions about your hiring process, talk about open positions and collect CVs. To help you attract more attendees to your digital booth, we will publish it and its link on our website and social media. You will also be able to host a lottery between all the participants who arrived at your booth and send them a prize.
 
-Price: $1,500 USD
+Price: $1,500 USD, (Gold tier: 50%, Platinum: 80%)
 
 * 1-hour tech booth for product exposure
-many of the conference attendees are security professionals, and your potential customers. This is your chance to meet with them, answer questions about your products and give demos. To help you attract more attendees to your digital booth, we will publish it and its link on our website and social media. You will also be able to host a lottery between all the participants who arrived at your booth and send them a prize.
+Many of the conference attendees are security professionals, and your potential customers. This is your chance to meet with them, answer questions about your products and give demos. To help you attract more attendees to your digital booth, we will publish it and its link on our website and social media. You will also be able to host a lottery between all the participants who arrived at your booth and send them a prize.
 
-Price: $1,500 USD
+Price: $1,500 USD, (Gold tier: 50%, Platinum: 80%)
+
+* 20-minutes appsec quiz
+Limited to one per day, technical quiz about Application security and product security in general. 
+
+Price: $1,000 USD, (Gold tier: 50%, Platinum: 80%)
 
 [Download AppSec Israel 2020 detailed sponsorship](/www-chapter-israel/assets/files/Digital_AppSec_Israel_2020_Sponsorships.pdf)
 
