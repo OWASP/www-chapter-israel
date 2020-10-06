@@ -11,68 +11,7 @@ tags: Israel
 
 ## AppSec Israel 2020 Sponsorships
 
-All sponsors, regardless of sponsorship level receive the following:
-* Many thanks, and hopefully a very good feeling of helping the community!
-* Access to all the tools, guides, and libraries OWASP makes available for everybody - if you benefit from these, support the organization!
-* In general, if there is something else specific that you may want, and is within the OWASP guidelines, please let us know.
-
-**PREMIUM TIERS**
-
-| Benefit | Silver | Gold | Platinum Limited |
-| ------------------- |:----------------------:|:---------------:|:--------------:|
-|Logo on Website|	280x100|	375x150|	500x200|
-|Logo on background| 	No|	Yes|	Large|
-|Logo on Chapter page|	No|	Yes|	Yes|
-|Logo in Website header|	No|	No|	Yes|
-|Vendor blurb on Sponsors page|	No|	50 words|	100 words|
-|Link to sponsor chat|	Yes|	Yes|	Yes|
-|Link to sponsor video/zoom|	No|	Yes|	Yes|
-|Vendor passport raffle|	No|	Yes|	Yes|		
-|Price:|	$2,000| 	$3,000| 	$4,500 |
-
-**Sponsorship options:**
-
-* Capture the Flag
-Sponsor the popular CtF competition, which will take place during the conference. As the official CtF Host you will have your logo on the CtF page. We will recognize you when we announce the winners over social media, and can optionally include your own prize. 
-
-Price: $1,500 USD
-
-* Keynote session sponsorship
-Sponsor a single session during the conference. We will mention you at the beginning and end of the session, and put your logo on the opening and closing slides.
-
-Price: $2,000 USD
-
-* Session sponsorship
-Sponsor a single session during the conference. We will mention you at the beginning and end of the session, and put your logo on the opening and closing slides.
-
-Price: $1,000 USD
-
-* Pre-conference swag
- Our audience loves cool swag, even when they can’t attend the conference. To encourage registrations, we will be sending our attendees small packages of swag like notebooks, stickers, hats etc. One of these can be yours and include your logo.
-
-Price: $3,000 USD requires at least 3 sponsors
-
-* Training sponsorship
-OWASP’s main goal is to improve security of software, that’s why we hold free training every year, in several topics. We will mention you at the beginning and end of each training, and put your logo on the opening and closing slides.
-
-Price: $2,000 USD
-
-* 1-hour digital booth for HR and recruiting
-Among the conference attendees are professionals, CS/engineering students and young professionals. This is your chance to meet with them, answer questions about your hiring process, talk about open positions and collect CVs. To help you attract more attendees to your digital booth, we will publish it and its link on our website and social media. You will also be able to host a lottery between all the participants who arrived at your booth and send them a prize.
-
-Price: $1,500 USD, (Gold tier: 50%, Platinum: 80%)
-
-* 1-hour tech booth for product exposure
-Many of the conference attendees are security professionals, and your potential customers. This is your chance to meet with them, answer questions about your products and give demos. To help you attract more attendees to your digital booth, we will publish it and its link on our website and social media. You will also be able to host a lottery between all the participants who arrived at your booth and send them a prize.
-
-Price: $1,500 USD, (Gold tier: 50%, Platinum: 80%)
-
-* 20-minutes appsec quiz
-Limited to one per day, technical quiz about Application security and product security in general. 
-
-Price: $1,000 USD, (Gold tier: 50%, Platinum: 80%)
-
-[Download AppSec Israel 2020 detailed sponsorship](/www-chapter-israel/assets/files/Digital_AppSec_Israel_2020_Sponsorships.pdf)
+[AppSec Israel 2020 detailed sponsorship tiers and options can found in AppSec IL site](https://appsecil.org/Sponsors)
 
 ## Local sponsors
 
