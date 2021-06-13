@@ -5,3 +5,14 @@
 * [Twitter](https://twitter.com/OWASP_IL) account.
 * [Sponsorship opportunities](https://www.owasp.org/index.php/Local_Chapter_Supporter), including \#AppSecIL conference sponsorship.
 * [Ongoing Meetings and socialization on Meetup](http://www.meetup.com/OWASP-Israel/).
+
+### Board members
+
+* [Or Katz](mailto:or.katz@owasp.org)
+* [Dr. Yossi Oren](User:YossiOren )
+* [Josh Grossman](mailto:josh.grossman@owasp.org)
+* [Ofer Maor](mailto:Ofer.maor@owasp.org)
+
+#### Chapter Founder
+
+* [Ofer Shezaf](mailto:ofer@shezaf.com)
