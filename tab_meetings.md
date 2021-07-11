@@ -32,6 +32,30 @@ Past events, starting from 2016 can be found in <a href="https://www.meetup.com/
 </thead>
 <tbody>
 <tr class="even">
+<td><p><a href="https://www.meetup.com/OWASP-Israel/events/277502454/">OWASP IL Meetup April 2021</a></p></td>
+<td><p>April 25, 2021</p></td>
+<td><p>Online - CMD+CTRL CyberRange</p></td>
+<td><p>120 participants</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.meetup.com/OWASP-Israel/events/274686621/">OWASP Meetup December 2020</a></p></td>
+<td><p>December 8, 2020</p></td>
+<td><p>Online</p></td>
+<td><p>167 participants</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.meetup.com/OWASP-Israel/events/269501314/">OWASP Meetup March 2020</a></p></td>
+<td><p>March 24, 2020</p></td>
+<td><p>Online</p></td>
+<td><p>117 participants</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.meetup.com/OWASP-Israel/events/277502454/">OWASP Meetup Feb 2020</a></p></td>
+<td><p>February 18, 2020</p></td>
+<td><p>BridgeCrew.io Office</p></td>
+<td><p>96 participants</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://www.meetup.com/OWASP-Israel/events/267512448/">OWASP Israel January 2020 - Workshop</a></p></td>
 <td><p>January 21, 2020</p></td>
 <td><p>ZOOZ office in Tel Aviv-Yafo</p></td>
