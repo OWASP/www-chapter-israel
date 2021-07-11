@@ -23,6 +23,7 @@ postal-code:
 
 ## Local News
  
+* Aug 2021 [meetup](https://www.meetup.com/OWASP-Israel/events/279311755/) is around the corner! you are welcome!
 * Everyone are welcome to join us at our chapter meetings.
 * Digital AppSecIL 2020 recordings are available [here](https://www.youtube.com/playlist?list=PLA4gj-PiNukcgk6vpXtfRXj4oq4uMAwEG)
 
