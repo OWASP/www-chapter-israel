@@ -1,10 +1,10 @@
 ---
 
-title: annualconferences
-displaytext: Previous Annual Conferences
+title: conferences
+displaytext: Annual Conferences
 layout: null
 tab: true
-order: 3
+order: 2
 tags: Israel
 output:
   html_document:
