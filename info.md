@@ -10,7 +10,6 @@
 
 * [Or Katz](mailto:or.katz@owasp.org)
 * [Dr. Yossi Oren](User:YossiOren )
-* [Josh Grossman](mailto:josh.grossman@owasp.org)
 * [Ofer Maor](mailto:Ofer.maor@owasp.org)
 
 #### Chapter Founder
