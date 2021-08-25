@@ -14,8 +14,8 @@ output:
 
 ## Previous Annual Conferences
 
-| Name                   | Date            | Location                       | Attendance |
-| ---------------------- | --------------- | ------------------------------ | ---------- |
+| Name | Date | Location | Attendance |
+| ---- | ---- | -------- | ---------- |
 | **[AppSec IL 2020](https://appsecil.org/)**   | Oct 27-28, 2020 | **Digital event** | **nearly 1000 attendees\!** |
 | **[AppSec Global 2019](https://telaviv.appsecglobal.org)**   | May 26-39, 2019 | **InterContinental David Tel Aviv** | **over 500 attendees** |
 | **[AppSec Israel 2018](https://2018.appsecil.org/)**   | September 5-6, 2018 | Tel Aviv University | **over 900 attendees\!** |
