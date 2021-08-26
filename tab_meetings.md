@@ -6,6 +6,7 @@ layout:  null
 tab: true
 order: 1
 tags: Israel
+meetup-group: OWASP-Israel
 
 ---
 
