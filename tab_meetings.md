@@ -16,14 +16,14 @@ Past events, starting from 2016 can be found in <a href="https://www.meetup.com/
 
 {% include chapter_events.html group=page.meetup-group %}
 
-* [OWASP Chapters All Day (24hr conference) - hour 21](https://www.youtube.com/watch?v=jZs89NORky4), Jube 6, 2020, OWASP online event
-* [Online OWASP Israel March 2020](https://www.meetup.com/OWASP-Israel/events/269501314/), March 24, 2020, PayU online event
-* Workshop for members on [Docker Image security](https://www.meetup.com/OWASP-Israel/events/268461033/), February 18, 2020, Bridgecrew office
-
-
 | Name  | Date  | Location   | Channel |
 |---------------- | ------------------------------ | ------------------------------------------- | -----------------------------|
-| **[OWASP IL Meetup Dec 2021](https://www.meetup.com/OWASP-Israel/events/282521101/)** | **Dec 27, 2021**        | **Apiiro office in Tel Aviv-Yafo**  | **[OWASP IL Meetup Dec 2021](https://www.youtube.com/watch?v=-PvE682PII8&list=PLA4gj-PiNukdydWyr1_FxOo0ZlQYiBvQt)** |
+| [OWASP IL Meetup Dec 2021](https://www.meetup.com/OWASP-Israel/events/282521101/) | Dec 27, 2021        | Apiiro office in Tel Aviv-Yafo  | [Recordings](https://www.youtube.com/watch?v=-PvE682PII8&list=PLA4gj-PiNukdydWyr1_FxOo0ZlQYiBvQt) |
+|[Online OWASP Israel March 2020](https://www.meetup.com/OWASP-Israel/events/269501314/)| March 24, 2020| PayU online event||
+|Workshop for members on [Docker Image security](https://www.meetup.com/OWASP-Israel/events/268461033/)|February 18, 2020| Bridgecrew office||
+|[OWASP Chapters All Day (24hr conference) - hour 21|Jube 6, 2020| OWASP online event|[Recordings](https://www.youtube.com/watch?v=jZs89NORky4)|
+
+### Previus Meetups
 
 <table>
   <col width="300">
