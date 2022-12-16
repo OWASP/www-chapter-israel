@@ -18,6 +18,8 @@ Past events, starting from 2016 can be found in <a href="https://www.meetup.com/
 
 | Name  | Date  | Location   | Channel |
 |---------------- | ------------------------------ | -------------------------- | -----------------------------|
+| [OWASP IL Meetup July 2022](https://www.meetup.com/OWASP-Israel/events/286758480/) | July 12, 2022        | AWS Floor28 in Tel Aviv-Yafo  |  |
+| [OWASP IL Meetup March 2022](https://www.meetup.com/OWASP-Israel/events/286758480/) | March 15, 2022        | Enso Security in Tel Aviv-Yafo  |  |
 | [OWASP IL Meetup Dec 2021](https://www.meetup.com/OWASP-Israel/events/282521101/) | Dec 27, 2021        | Apiiro office in Tel Aviv-Yafo  | [Recordings](https://www.youtube.com/watch?v=-PvE682PII8&list=PLA4gj-PiNukdydWyr1_FxOo0ZlQYiBvQt) |
 |[Online OWASP Israel March 2020](https://www.meetup.com/OWASP-Israel/events/269501314/)| March 24, 2020| PayU online event||
 |Workshop for members on [Docker Image security](https://www.meetup.com/OWASP-Israel/events/268461033/)|February 18, 2020| Bridgecrew office||
