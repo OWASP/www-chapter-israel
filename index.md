@@ -16,7 +16,7 @@ postal-code:
 ## Welcome
 
   We aim to organize the next activities 
-* An annual conference, [AppSec Israel](https://appsecil.org/).
+* An annual conference, [AppSec Israel](https://appsecil.org/) your support is more then welcome, find all sponsorships [here](https://appsecil.org/assets/AppSecIL2023Sponsorships.pdf) .
 * Periodic meetings and workshops. If you would like to host a meeting or speak in one contact [Ori Troyna](mailto:ori.troyna@owasp.org) or [Shira Shamban](mailto:shira.shamban@owasp.org).
 * Translation of OWASP resources to Hebrew.
 * Spreading the Word - Reaching out for more people, especially outside of the AppSec community.
