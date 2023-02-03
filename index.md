@@ -23,7 +23,7 @@ postal-code:
 
 ## Local News
  
-* Jan 2023 [meetup](https://www.meetup.com/owasp-israel/events/290271835) is around the corner! you are welcome!
+* Jan 2023 [meetup](https://www.meetup.com/owasp-israel/events/290271835) was great! thank you for amazing audiance. all recordings available [here](https://youtube.com/playlist?list=PLA4gj-PiNukc8m2qQtNgodFtrYd1TDPo9)!
 * Everyone are welcome to join us at our chapter meetings.
 * Digital AppSecIL 2020 recordings are available [here](https://www.youtube.com/playlist?list=PLA4gj-PiNukcgk6vpXtfRXj4oq4uMAwEG)
 
