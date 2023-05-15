@@ -11,7 +11,7 @@ postal-code:
 
 ---
 
-![logo](/assets/images/Owasp_Israel_logo.png "Owasp Israel")
+![logo](assets/images/Owasp_Israel_logo.png "Owasp Israel") 
 
 ## Welcome
 
