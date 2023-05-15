@@ -11,15 +11,16 @@ postal-code:
 
 ---
 
-<!--![logo](/assets/images/Owasp_Israel_logo.png "Owasp Israel")-->
+![logo](/assets/images/Owasp_Israel_logo.png "Owasp Israel")
 
 ## Welcome
 
   We aim to organize the next activities 
-* An annual conference, [AppSec Israel](https://appsecil.org/). __your support is needed__, find all sponsorships [here](https://appsecil.org/assets/AppSecIL2023Sponsorships.pdf).
+* Our fantastic annual conference, [AppSec Israel](https://appsecil.org/), is happening soon!
 * Periodic meetings and workshops. If you would like to host a meeting or speak in one contact [Ori Troyna](mailto:ori.troyna@owasp.org) or [Shira Shamban](mailto:shira.shamban@owasp.org).
 * Translation of OWASP resources to Hebrew.
 * Spreading the Word - Reaching out for more people, especially outside of the AppSec community.
+* subscribe to [our mailing list](https://groups.google.com/u/1/a/owasp.org/g/israel-chapter), or check out the other social media accounts on the sidebar!  
 
 ## Local News
  
