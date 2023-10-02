@@ -9,8 +9,9 @@
 ### Board members
 
 * [Or Katz](mailto:or.katz@owasp.org)
-* [Dr. Yossi Oren](User:YossiOren )
 * [Ofer Maor](mailto:Ofer.maor@owasp.org)
+* [Sharon Ohayon](mailto:sharon.ohayon@owasp.org)
+* [Oz Avenstein](mailto:oz.avenstein@owasp.org)
 
 #### Chapter Founder
 
