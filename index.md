@@ -24,9 +24,12 @@ postal-code:
 
 ## Local News
  
+* Coming soon - Feb 2024 meetup! Join us for a meetup of gathering and community. In these challenging times, let's come together to share, learn, and support each other. Stay tuned for more details. 
+* Aug 2023 [meetup](https://www.meetup.com/owasp-israel/events/295711502/) was amazing! thank you for coming and participating in our CTF event!
+* Thank you for attending AppSec IL 2023! It was a pleasure to see you after a long period of virtual conferences. Your presence made the event even more special.
 * Jan 2023 [meetup](https://www.meetup.com/owasp-israel/events/290271835) was great! thank you for amazing audiance. all recordings available [here](https://youtube.com/playlist?list=PLA4gj-PiNukc8m2qQtNgodFtrYd1TDPo9)!
 * Everyone are welcome to join us at our chapter meetings.
-* Digital AppSecIL 2020 recordings are available [here](https://www.youtube.com/playlist?list=PLA4gj-PiNukcgk6vpXtfRXj4oq4uMAwEG)
+
 
 ## Hebrew Translations
 
