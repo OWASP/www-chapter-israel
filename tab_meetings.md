@@ -18,6 +18,8 @@ Past events, starting from 2016 can be found in <a href="https://www.meetup.com/
 
 | Name  | Date  | Location   | Channel |
 |---------------- | ------------------------------ | -------------------------- | -----------------------------|
+| [OWASP IL Meetup August 2023 - CTF ](https://www.meetup.com/owasp-israel/events/295711502/) | Sep 5, 2023        | Cato Networks in Tel Aviv-Yafo  |   |
+| [AppSec IL 2023 ](https://www.meetup.com/owasp-israel/events/293101142//) | May 16, 2023        | Expo in Tel Aviv-Yafo  |   |
 | [OWASP IL Meetup January 2023](https://www.meetup.com/owasp-israel/events/290271835/) | Jan 10, 2023        | JFrog in Tel Aviv-Yafo  |  [here](https://youtube.com/playlist?list=PLA4gj-PiNukc8m2qQtNgodFtrYd1TDPo9) |
 | [OWASP IL Meetup July 2022](https://www.meetup.com/OWASP-Israel/events/286758480/) | July 12, 2022        | AWS Floor28 in Tel Aviv-Yafo  |  |
 | [OWASP IL Meetup March 2022](https://www.meetup.com/OWASP-Israel/events/286758480/) | March 15, 2022        | Enso Security in Tel Aviv-Yafo  |  |
@@ -26,7 +28,7 @@ Past events, starting from 2016 can be found in <a href="https://www.meetup.com/
 |Workshop for members on [Docker Image security](https://www.meetup.com/OWASP-Israel/events/268461033/)|February 18, 2020| Bridgecrew office||
 |OWASP Chapters All Day (24hr conference) - hour 21|Jube 6, 2020| OWASP online event|[here](https://www.youtube.com/watch?v=jZs89NORky4)|
 
-### Previus Meetups
+### Previous Meetups
 
 <table>
   <col width="300">
