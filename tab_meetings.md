@@ -18,6 +18,7 @@ Past events, starting from 2016 can be found in <a href="https://www.meetup.com/
 
 | Name  | Date  | Location   | Channel |
 |---------------- | ------------------------------ | -------------------------- | -----------------------------|
+| [OWASP IL Meetup February 2024](https://www.meetup.com/owasp-israel/events/296831820/) | Feb 6, 2024        | Bright Security in Tel Aviv-Yafo  |   |
 | [OWASP IL Meetup August 2023 - CTF ](https://www.meetup.com/owasp-israel/events/295711502/) | Sep 5, 2023        | Cato Networks in Tel Aviv-Yafo  |   |
 | [AppSec IL 2023 ](https://www.meetup.com/owasp-israel/events/293101142//) | May 16, 2023        | Expo in Tel Aviv-Yafo  |   |
 | [OWASP IL Meetup January 2023](https://www.meetup.com/owasp-israel/events/290271835/) | Jan 10, 2023        | JFrog in Tel Aviv-Yafo  |  [here](https://youtube.com/playlist?list=PLA4gj-PiNukc8m2qQtNgodFtrYd1TDPo9) |

@@ -26,6 +26,8 @@ We would love for you to be involved in the following ways
 
 ## Local News
  
+* Hope everyone is ok and staying safe in the current situation. The Global OWASP team are aware of the challenges we are facing and are there for us.
+* Due to the current situation, [OWASP membership is available without charge](https://owasp.org/blog/2023/11/27/force-majeure-membership) for people based in Israel (as well as Ukraine and the West Bank and Gaza). To register [visit this page](https://owasp.org/membership/force_majeure/).
 * Stay tuned for details on our next meetup!
 * Our [February 2024 meetup](https://www.meetup.com/owasp-israel/events/296831820/) was amazing! Thank you for coming and hope you enjoyed our great speakers!
 * Thank you for attending AppSec IL 2023! It was a pleasure to see you after a long period of virtual conferences. Your presence made the event even more special.
