@@ -17,13 +17,6 @@ postal-code:
 
 Welcome to OWASP Israel, one of the largest individual chapters in the world!
 
-We would love for you to be involved in the following ways
-
-* Periodic meetings and workshops. If you would like to host a meeting or speak in one contact  or [Shira Shamban](mailto:shira.shamban@owasp.org).
-* Translation of OWASP resources to Hebrew.
-* Spreading the Word - Reaching out for more people, especially outside of the AppSec community.
-* subscribe to [our mailing list](https://groups.google.com/u/1/a/owasp.org/g/israel-chapter), or check out the other social media accounts on the sidebar!  
-
 ## Local News
  
 * Hope everyone is ok and staying safe in the current situation. The Global OWASP team are aware of the challenges we are facing and are there for us.
@@ -37,6 +30,7 @@ We would love for you to be involved in the following ways
 * We run frequent chapter meetings, see more details on the [Meetings](#div-meetings) tab. Everyone is welcome to join us!
 * We run the AppSec Israel conference. The next one is planned for May 2025!
 * Certain OWASP resources have been translated to Hebrew.
+* We have a variety of venues including a Facebook group, a LinkedIn group and a Slack channel where you can network with your community (see the sidebar for more details).
 
 ## How you can be involved 
 
@@ -45,6 +39,8 @@ We would love for you to be involved in the chapter:
 * If you have space for ~100 AppSec aficionados and would like to host one of our meetups, complete the form here:
 * If you have something cool to share with us and would like to speak at a meetup, complete the form here:
 * If you would like to help out with the chapter, speak to [Ori Troyna](mailto:ori.troyna@owasp.org).
+* Spreading the Word - Please help us to reach out to more people, especially outside of the AppSec community by sending them our way.
+* To keep up to date about the chapter, you can subscribe to [our mailing list](https://groups.google.com/u/1/a/owasp.org/g/israel-chapter), or check out the other social media accounts on the sidebar!  
 
 ## Hebrew Translations
 
