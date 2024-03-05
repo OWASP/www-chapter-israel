@@ -36,8 +36,10 @@ Welcome to OWASP Israel, one of the largest individual chapters in the world!
 
 We would love for you to be involved in the chapter:
 
-* If you have space for ~100 AppSec aficionados and would like to host one of our meetups, complete the form here:
-* If you have something cool to share with us and would like to speak at a meetup, complete the form here:
+* If you have space for ~100 AppSec aficionados and would like to host one of our meetups, please complete the form here:
+    * [Call for Hosts - OWASP IL Chapter Meetups](https://docs.google.com/forms/d/1XfF0xObIVGVUmQUCrwBj8WCnKO_kFpdy3HzzbyWEMB4)
+* If you have something cool to share with us and would like to speak at a meetup, please complete the form here:
+    * [Call for Papers - OWASP IL Chapter Meetups](https://docs.google.com/forms/d/e/1FAIpQLSeKvD3QipueLRAddpFiizoYAr-fT_xUqsWPI-upg2w8Tli2bw/viewform)
 * If you would like to help out with the chapter, speak to [Ori Troyna](mailto:ori.troyna@owasp.org).
 * Spreading the Word - Please help us to reach out to more people, especially outside of the AppSec community by sending them our way.
 * To keep up to date about the chapter, you can subscribe to [our mailing list](https://groups.google.com/u/1/a/owasp.org/g/israel-chapter), or check out the other social media accounts on the sidebar!  
