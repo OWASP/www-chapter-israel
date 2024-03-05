@@ -16,7 +16,8 @@ output:
 
 | Name | Date | Location | Attendance |
 | ---- | ---- | -------- | ---------- |
-| **[AppSec IL 2020](https://appsecil.org/)**   | Oct 27-28, 2020 | **Digital event** | **nearly 1000 attendees\!** |
+| **[AppSec IL 2023](https://appsecil.org/)**   | May 16-17, 2023 | Expo Tel Aviv | **800 attendees** |
+| **[AppSec IL 2020](https://2020.appsecil.org/)**   | Oct 27-28, 2020 | **Digital event** | **nearly 1000 attendees\!** |
 | **[AppSec Global 2019](https://telaviv.appsecglobal.org)**   | May 26-39, 2019 | **InterContinental David Tel Aviv** | **over 500 attendees** |
 | **[AppSec Israel 2018](https://2018.appsecil.org/)**   | September 5-6, 2018 | Tel Aviv University | **over 900 attendees\!** |
 | **[AppSec Israel 2017](https://2017.appsecil.org/)**   | October 17-18, 2017 | College of Management | **800 attendees** |
