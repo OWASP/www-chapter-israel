@@ -27,7 +27,7 @@ Welcome to OWASP Israel, one of the largest individual chapters in the world!
 
 ## Our activities
 
-* We run frequent chapter meetings, see more details on the [Meetings](#div-meetings) tab. Everyone is welcome to join us!
+* We run frequent chapter meetings, see more details on the <a href="https://owasp.org/www-chapter-israel/#div-meetings" target="_blank">Meetings</a> tab. Everyone is welcome to join us!
 * We run the AppSec Israel conference. The next one is planned for May 2025!
 * Certain OWASP resources have been translated to Hebrew.
 * We have a variety of venues including a Facebook group, a LinkedIn group and a Slack channel where you can network with your community (see the sidebar for more details).
