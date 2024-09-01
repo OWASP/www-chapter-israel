@@ -1,13 +1,9 @@
-gold:
-- name : Checkmarx
-  url  : https://www.checkmarx.com/ 
-  image: Checkmarx.png  
-- name : Amdocs
-  url  : https://www.amdocs.com/ 
-  image: amdocs.png 
-  
+# gold:
+# - name : 
+#   url  : 
+#   image: 
 
-ctf:
-- name : AWS
-  url  : https://aws.amazon.com/
-  image: aws.png
+# ctf:
+# - name : 
+#   url  : 
+#   image: 
