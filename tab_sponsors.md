@@ -9,12 +9,14 @@ tags: Israel
 
 ---
 
-## AppSec Israel 2020 Sponsorships
+[AppSec Israel detailed sponsorship tiers and options can be found in AppSec IL site](https://appsecil.org/Sponsors)
 
-[AppSec Israel 2020 detailed sponsorship tiers and options can be found in AppSec IL site](https://appsecil.org/Sponsors)
+### AppSec Israel Sponsors 
+
+<img src="assets/images/Sponsors/AppsecIL-sponsors.png">
 
 {% if site.data.sponsors.gold %}
-### Gold Sponsors 
+### Gold Chapter Supporters  
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.gold %}
 	  <span class="sponsor gold-sponsor">
@@ -22,7 +24,7 @@ tags: Israel
 		  {% if sponsor.image == %}
 			<span>{{ sponsor.name }}</span>
 		  {% else %} 
-			<img src="assets/images/Sponsors/{{ sponsor.image }}">
+			<img src="assets/images/Sponsors/{{ sponsor.image }}">			
 		  {% endif %}
 		</a>
 	  </span>
