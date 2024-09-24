@@ -18,6 +18,9 @@ Past events, starting from 2016 can be found in <a href="https://www.meetup.com/
 
 | Name  | Date  | Location   | Channel |
 |---------------- | ------------------------------ | -------------------------- | -----------------------------|
+| [OWASP IL Special Workshop July 2024](https://www.meetup.com/owasp-israel/events/302035464/) | July 16, 2024        | Monday.com in Tel Aviv-Yafo  |   |
+| [OWASP IL Meetup June 2024](https://www.meetup.com/owasp-israel/events/300284889/) | June 23, 2024        | Axonius in Tel Aviv-Yafo  |   |
+| [OWASP IL Meetup May 2024](https://www.meetup.com/owasp-israel/events/300284832/) | May 8, 2024        | Playtika in Herzliya  |   |
 | [OWASP IL Meetup February 2024](https://www.meetup.com/owasp-israel/events/296831820/) | Feb 6, 2024        | Bright Security in Tel Aviv-Yafo  |   |
 | [OWASP IL Meetup August 2023 - CTF ](https://www.meetup.com/owasp-israel/events/295711502/) | Sep 5, 2023        | Cato Networks in Tel Aviv-Yafo  |   |
 | [AppSec IL 2023 ](https://www.meetup.com/owasp-israel/events/293101142//) | May 16, 2023        | Expo in Tel Aviv-Yafo  |   |
