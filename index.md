@@ -17,6 +17,11 @@ postal-code:
 
 Welcome to OWASP Israel, one of the largest individual chapters in the world!
 
+## 🎉🎉 Get ready for AppSecIL 2025! 🎉🎉
+
+
+
+
 ## Local News
  
 * Hope everyone is ok and staying safe in the current situation. The Global OWASP team are aware of the challenges we are facing and are there for us.
