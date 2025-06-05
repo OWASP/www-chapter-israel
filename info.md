@@ -1,11 +1,12 @@
 ### Information
-* Security discussion forum in Hebrew - on [Facebook](https://www.facebook.com/groups/owasp.il/).
-* [LinkedIn Group](https://www.linkedin.com/groups/39702) for networking and announcements.
-* [Chat room](https://owasp.slack.com/archives/C06D699NZ) for security in Hebrew.
+
 * Twitter account: [OWASP_IL](https://twitter.com/OWASP_IL)
-* BlueSky account: [owaspil.bsky.social](https://bsky.app/profile/did:plc:7hft2n3ynsxtuufsreegwekl)
-* [Sponsorship opportunities](https://www.owasp.org/index.php/Local_Chapter_Supporter), including \#AppSecIL conference sponsorship.
 * [Ongoing Meetings and socialization on Meetup](http://www.meetup.com/OWASP-Israel/).
+* BlueSky account: [owaspil.bsky.social](https://bsky.app/profile/did:plc:7hft2n3ynsxtuufsreegwekl)
+* [LinkedIn Group](https://www.linkedin.com/groups/39702) for networking and announcements.
+* Security discussion forum in Hebrew - on [Facebook](https://www.facebook.com/groups/owasp.il/).
+* [Chat room](https://owasp.slack.com/archives/C06D699NZ) for security in Hebrew.
+* [Sponsorship opportunities](https://www.owasp.org/index.php/Local_Chapter_Supporter), including \#AppSecIL conference sponsorship.
 
 ### Board members
 
