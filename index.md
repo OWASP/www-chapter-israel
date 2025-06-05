@@ -19,19 +19,15 @@ Welcome to OWASP Israel, one of the largest individual chapters in the world!
 
 ## 🎉🎉 Get ready for AppSecIL 2025! 🎉🎉
 
-AppSecIL 2025 is coming up on 5th June 2025, the [CFP is open now](https://www.papercall.io/owasp-il-2025)!
-
-For full details, see the conference website: <https://appsecil.org/>
+AppSecIL 2025 is coming up on 5th June 2025, for full details, see the conference website: <https://appsecil.org/>
 
 ![alt text](assets/images/appsecilsavethedate.jpg)
 
 ## Local News
  
 * Hope everyone is ok and staying safe in the current situation. The Global OWASP team are aware of the challenges we are facing and are there for us.
-* Due to the current situation, [OWASP membership is available without charge](https://owasp.org/blog/2023/11/27/force-majeure-membership) for people based in Israel (as well as Ukraine and the West Bank and Gaza). To register [visit this page](https://owasp.org/membership/force_majeure/).
+* We have had some great meetups, check out our [Chapter Meetings](https://owasp.org/www-chapter-israel/#div-meetings) page.
 * Stay tuned for details on our next meetup!
-* We have had some great meetups so far in 2024, check out our [Chapter Meetings](https://owasp.org/www-chapter-israel/#div-meetings) page.
-* Thank you for attending AppSec IL 2023! It was a pleasure to see you after a long period of virtual conferences. Your presence made the event even more special and we are now planning for 2025!
 
 ## Our activities
 
