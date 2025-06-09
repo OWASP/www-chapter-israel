@@ -9,11 +9,11 @@ tags: Israel
 
 ---
 
-[AppSec Israel detailed sponsorship tiers and options can be found in AppSec IL site](https://appsecil.org/Sponsors)
+[AppSec Israel detailed sponsorship tiers and options can be found in AppSec IL site](https://appsecil.org/sponsors)
 
 ### AppSec Israel Sponsors 
 
-<img src="assets/images/Sponsors/AppsecIL-sponsors.png">
+<img src="assets/images/Sponsors/sponsors.png">
 
 {% if site.data.sponsors.gold %}
 ### Gold Chapter Supporters  
