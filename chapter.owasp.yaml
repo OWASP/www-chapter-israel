@@ -19,8 +19,8 @@ location:
   country: Israel
   country_code: IL
   region: Europe
-  latitude: 30.8124247
-  longitude: 34.8594762
+  latitude: 31.7781554
+  longitude: 35.2359854
 meetup_group: OWASP-Israel
 name: OWASP Israel
 repositories:
