@@ -19,7 +19,9 @@ Welcome to OWASP Israel, one of the largest individual chapters in the world!
 
 ## ANNOUNCING OWASP APPSEC ISRAEL 2026
 
-![logo](assets/images/savethedate2026.jpg "Owasp Israel"){: .gold-sponsor}
+<span class="sponsor diamond-sponsor">
+<img src="assets/images/savethedate2026.jpg" />
+</span>
 
 For full details on last year's conference, see the conference website: <https://appsecil.org/>
 
