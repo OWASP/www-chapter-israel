@@ -17,9 +17,11 @@ postal-code:
 
 Welcome to OWASP Israel, one of the largest individual chapters in the world!
 
-### 🎉🎉 AppSecIL 2025 was on 5th June 2025, and it was fantastic! 🎉🎉
+## ANNOUNCING OWASP APPSEC ISRAEL 2026
 
-For full details of what we had, see the conference website: <https://appsecil.org/>
+![logo](assets/images/savethedate2026.jpg "Owasp Israel"){: .sponsor}
+
+For full details on last year's conference, see the conference website: <https://appsecil.org/>
 
 ## Local News
  
