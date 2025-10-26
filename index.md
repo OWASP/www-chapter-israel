@@ -17,17 +17,21 @@ postal-code:
 
 Welcome to OWASP Israel, one of the largest individual chapters in the world!
 
+<!--
+
 ## ANNOUNCING OWASP APPSEC ISRAEL 2026
 
 <img src="assets/images/savethedate2026.jpg" style="max-width: 500px; width: 100%;" alt="Save the Date 2026" />
 
 For full details on last year's conference, see the conference website: <https://appsecil.org/>
 
+-->
+
 ## Local News
  
+* Our next meetup us **18th November at Akamai**, [see here for full details](https://www.meetup.com/owasp-israel/events/311662453/).
 * Hope everyone is ok and staying safe in the current situation. The Global OWASP team are aware of the challenges we are facing and are there for us.
 * We have had some great meetups, check out our [Chapter Meetings](https://owasp.org/www-chapter-israel/#div-meetings) page.
-* Stay tuned for details on our next meetup!
 
 ## Our activities
 
