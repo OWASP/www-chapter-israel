@@ -18,6 +18,7 @@ Past events, starting from 2016 can be found in <a href="https://www.meetup.com/
 
 | Name  | Date  | Location   | Channel |
 |---------------- | ------------------------------ | -------------------------- | -----------------------------|
+| [OWASP IL Meetup November 2025](https://www.meetup.com/owasp-israel/events/311662453/) | Nov 18, 2025        | Akamai in Tel Aviv-Yafo  |   |
 | [OWASP IL Meetup December 2024](https://www.meetup.com/owasp-israel/events/304629282/) | Dec 4, 2024        | JFrog in Tel Aviv-Yafo  |   |
 | [OWASP IL Special Workshop July 2024](https://www.meetup.com/owasp-israel/events/302035464/) | July 16, 2024        | Monday.com in Tel Aviv-Yafo  |   |
 | [OWASP IL Meetup June 2024](https://www.meetup.com/owasp-israel/events/300284889/) | June 23, 2024        | Axonius in Tel Aviv-Yafo  |   |
