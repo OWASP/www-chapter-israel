@@ -29,6 +29,7 @@ For full details on last year's conference, see the conference website: <https:/
    * Pssst, [you can already sign up](https://www.meetup.com/owasp-israel/events/311662453/) for our special Cyber Week/pre Chanuka meeting at Orca Security on Tuesday 9th December.
 * Hope everyone is ok and staying safe in the current situation. The Global OWASP team are aware of the challenges we are facing and are there for us.
 * We have had some great meetups, check out our [Chapter Meetings](https://owasp.org/www-chapter-israel/#div-meetings) page.
+* OWASP has a 25th Anniversary Virtual Conference happening in the EU timezone on 24th February 2026. You can submit to the [CfP](https://sessionize.com/owasp-feb-25anniversary/).
 * Global AppSec EU (Vienna) will be in June 2026, 22nd-24th for Training and 25th-26th for the conference. You can submit to the [CfP](https://sessionize.com/owasp-global-appsec-eu-2026-cfp-wash/) and [CfT](https://sessionize.com/owasp-global-appsec-2026EU/) today!
 
 
