@@ -4,7 +4,7 @@ title: conferences
 displaytext: Annual Conferences
 layout: null
 tab: true
-order: 2
+order: 3
 tags: Israel
 output:
   html_document:
