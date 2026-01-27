@@ -17,7 +17,7 @@ This is now even more important since OWASP is moving away from meetup.com
 
 Probably the easiest option
 
-Step 1) Email [israel-chapter+subscribe@owasp.org](mailto:israel-chapter+subscribe@owasp.org).
+Step 1) Email <a href="mailto:israel-chapter+subscribe@owasp.org" target="_blank">israel-chapter+subscribe@owasp.org</a>.
 Step 2) You will then receive an email offering to let you click a "Join this Group" button or reply to the email. Doing either of these two things will complete your subscription to the mailing list.
 
 ### OPTION B
