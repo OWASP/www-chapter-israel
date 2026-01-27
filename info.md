@@ -1,7 +1,6 @@
 ### Information
 
 * Twitter account: [OWASP_IL](https://twitter.com/OWASP_IL)
-* [Ongoing Meetings and socialization on Meetup](http://www.meetup.com/OWASP-Israel/).
 * BlueSky account: [owaspil.bsky.social](https://bsky.app/profile/did:plc:7hft2n3ynsxtuufsreegwekl)
 * [LinkedIn Group](https://www.linkedin.com/groups/39702) for networking and announcements.
 * Security discussion forum in Hebrew - on [Facebook](https://www.facebook.com/groups/owasp.il/).
