@@ -11,6 +11,8 @@ postal-code:
 
 ---
 
+**IMPORTANT:** OWASP is no longer using meetup.com, you **MUST** sign up to our mailing list to get updates on future events. <a href="https://owasp.org/www-chapter-israel/#div-mailinglist" target="_blank">See instructions here</a>.
+
 ![logo](assets/images/Owasp_Israel_logo.png "Owasp Israel") 
 
 ## Welcome
