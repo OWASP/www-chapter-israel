@@ -21,15 +21,13 @@ Welcome to OWASP Israel, one of the largest individual chapters in the world!
 
 ## ANNOUNCING OWASP APPSEC ISRAEL 2026
 
-<img src="assets/images/savethedate2026.jpg" style="max-width: 500px; width: 100%;" alt="Save the Date 2026" />
-
-For full details on last year's conference, see the conference website: <https://appsecil.org/>
+AppSec Israel 2026 is happening on 6th October 2026! For full details on the conference, see the website: <https://appsecil.org/>
 
 ## Local News
  
 * We have had some great meetups, check out our [Chapter Meetings](https://owasp.org/www-chapter-israel/#div-meetings) page.
-* OWASP has a 25th Anniversary Virtual Conference happening in the EU timezone on 24th February 2026. You can submit to the [CfP](https://sessionize.com/owasp-feb-25anniversary/).
-* Global AppSec EU (Vienna) will be in June 2026, 22nd-24th for Training and 25th-26th for the conference. You can submit to the [CfP](https://sessionize.com/owasp-global-appsec-eu-2026-cfp-wash/) today!
+* OWASP has a [25th Anniversary Virtual Conference](https://owasp.glueup.com/event/owasp-25th-anniversary-virtual-conference-176564/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none) happening in the US timezone on 22nd September 2026!
+
 
 
 ## Our activities
